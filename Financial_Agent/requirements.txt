@@ -1,0 +1,5 @@
+agno
+groq
+duckduckgo-search
+yfinance
+tenacity== 9.1.2
